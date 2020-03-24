@@ -1,0 +1,23 @@
+{
+  "name": "PortfolioSaasProject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himanshugithub6201/PortfolioSaasProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/himanshugithub6201/PortfolioSaasProject/issues"
+  },
+  "homepage": "https://github.com/himanshugithub6201/PortfolioSaasProject#readme",
+  "devDependencies": {
+    "node-sass": "^4.13.1"
+  }
+}
